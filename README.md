@@ -17,7 +17,7 @@
 
 ## 📸 Aperçu
 
-![KinyTimer UI](./assets/screenshot.png) <!-- à remplacer par ton vrai chemin -->
+![KinyTimer UI](./screenshot.jpg) 
 
 ---
 
